@@ -17,12 +17,8 @@
 - name: Package creation
   expanded: true
   items:
-  - name: Overview (new)
-    href: index.yml
   - name: Creating a new package
     href: azure-stack-vaas-create-oem-package.md
-  - name: Troubleshooting package creation (new)
-    href: index.yml
 - name: Validation workflows
   expanded: true
   items:
